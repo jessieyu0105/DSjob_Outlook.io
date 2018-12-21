@@ -1,0 +1,24 @@
+name: "Data Science: where is my job?"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Data"
+      href: data.html
+    - text: "Text Mining"
+      href: text.html
+    - text: "Fortune 500"
+      href: fortune500.html
+    - text: "Flexdashboard"
+      href: flexdashboard.html
+    - icon: fa-youtube fa-lg
+      href: https://www.youtube.com/watch?v=7_i6gDIfwxw&t=1s
+    - icon: fa-github fa-lg
+      href: https://github.com/ShanJiang21/P8105_final_website.io
+output:
+  html_document:
+    include:
+       after_body: footer.html
+  

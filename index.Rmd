@@ -1,0 +1,54 @@
+---
+title: "Welcome to Data Science Job Outlook project!"
+---
+
+```{r eval=FALSE, include=FALSE}
+library(hexSticker)
+
+dta_url = "./images/cow.png"
+
+sticker(dta_url, 
+        package = "", 
+        spotlight = FALSE,
+                    h_color = "#352638",
+                    h_fill = "#996EA3",
+                    p_size = 0.3, p_y = 0.05,
+                    p_family = "RobotoCondensed-Regular",
+                    s_x = 1, s_y = 0.88, s_width = 0.55,
+                    url = "P8105 Final",
+                    u_size = 2,
+                    u_y = 0.11,
+                    u_color = "#352638",
+        filename = "./images/logo.png")
+```
+
+<center>
+<img src= "./images/banner.jpg" style="width:90%"> 
+
+</center>
+
+</center>
+
+
+This is P8105 Data Science Job outlook final project website. <br />
+
+</center>
+> Big Data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it.-- Dan Ariely
+
+
+According to the [*2018 August Linkedin Workforce Report*](https://economicgraph.linkedin.com/resources/linkedin-workforce-report-august-2018), there is a roaring demand for workforces with data science skills across industries in the United States. As more institutions and industry sectors rely on big data to deal with operational challenges and optimize their decisions, the shortage of well-trained personnel in data science has been reported to be 151,717. Some regions are even in acute shortage, such as New York City, San Francisco, and Los Angeles. 
+<br />
+
+We are inspired by the great analysis work done and the blog edited by Shanshan Lu posted on [Kaggle](https://www.kaggle.com/).
+
+
+Some of the most exciting questions in our projects are:
+
+* Which are the top-5 U.S states that have the highest salaries in Data science field?
+* Compared to other fields, like finance, manufacturing and sales, is there any significant increase in job openings for data science ?  
+* What is the minimum threshold for being a qualified data science applicant?
+* Which degree is preferred on average, bachelor, master or Ph.D? 
+* Which tool is more desirable? R, Python or Java for Fortune 500 U.S companies?
+* Are these Fortune 500 U.S. companies and Non-Fortune 500 U.S. companies have different expectations of their candidates?
+* Are Fortune-500 companies more likely to hire Ph.D. students then Master students?
+

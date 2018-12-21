@@ -1,0 +1,79 @@
+---
+title: "Data Science: where is your next job?"
+output: 
+  html_document:
+    self_contained: no
+    highlight: haddock
+    toc: true
+    toc_float:
+      collapse: true
+      smooth_scroll: false
+    author: "Shan Jiang(sj2921), Jiayi Shen (js5354), Jie Yu (jy2944), Eleanor Zhang (zz2602), Guojing Wu (gw2383)"
+---
+
+<p>
+
+</p>
+<img src="./images/2. Data-Science_bh.jpeg" style="width:75%">
+
+<center>
+
+```{r echo=FALSE}
+icon::fa("rocket", size = 5, animate = "spin")
+```
+</center>
+<p> </p>
+
+
+### Screencast 
+
+You can click the button on the top right side and thumbs up for us. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7_i6gDIfwxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Team member 
+
+* Shan Jiang | Email:sj2921@cumc.columbia.edu
+* Jiayi Shen | Email:js5354@cumc.columbia.edu
+* Jie Yu     | Email:jy2944@cumc.columbia.edu
+* Eleanor Zhang |Email:zz2602@cumc.columbia.edu
+* Guojing Wu | Email:gw2383@cumc.columbia.edu
+
+
+<center>
+
+```{r echo=FALSE, fig.align="center"}
+icon::fa("hourglass-start", size = 3)
+```
+
+
+</center>
+
+### Major Findings 
+
+* **Northeastern states** and **California** are in high demand of labor with data science skills, **Texas** and **Corolado** are the most potential data science hubs.
+
+* **Bachelor** is the most common threshold degree; **Computer Science** and **Mathematics** are the most desirable academic background in Fortune 500 companies.
+
+* **Python**, **R** and **SQL** are most required **tools**. 
+
+* **Non-Fortune 500** companies prefer more data manipulation tools, while **Fortune 500** companies require high-level programming tools.
+
+*  **Interpersonal Skills**, **Data Manipulation & Analysis**, and **Machine Learning** are the skills most in need. 
+
+* **Non-fortune 500** companies focus on general skills, and elementary data analytical skills, while **Fortune 500** companies desire advanced and professional data science skills.
+
+
+<center>
+
+```{r echo=FALSE, fig.align="center"}
+icon::fa("hourglass-end", size = 3)
+```
+
+</center>
+
+### Github
+
+Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found.
+
+Here is the Github repository of our project, you can be find everything you need [here](https://github.com/zixuanzhang/p8105_Final_Project).
