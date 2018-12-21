@@ -18,9 +18,6 @@ output:
 
 <center>
 
-```{r echo=FALSE}
-icon::fa("rocket", size = 5, animate = "spin")
-```
 </center>
 <p> </p>
 
@@ -42,10 +39,6 @@ You can click the button on the top right side and thumbs up for us.
 
 <center>
 
-```{r echo=FALSE, fig.align="center"}
-icon::fa("hourglass-start", size = 3)
-```
-
 
 </center>
 
@@ -66,9 +59,6 @@ icon::fa("hourglass-start", size = 3)
 
 <center>
 
-```{r echo=FALSE, fig.align="center"}
-icon::fa("hourglass-end", size = 3)
-```
 
 </center>
 
