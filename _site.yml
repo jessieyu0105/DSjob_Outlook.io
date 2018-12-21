@@ -16,7 +16,7 @@ navbar:
     - icon: fa-youtube fa-lg
       href: https://www.youtube.com/watch?v=7_i6gDIfwxw&t=1s
     - icon: fa-github fa-lg
-      href: https://github.com/ShanJiang21/P8105_final_website.io
+      href: https://jessieyu0105.github.io/dsi_project_website.io
 output:
   html_document:
     include:
