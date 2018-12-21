@@ -1,4 +1,4 @@
-Final Project for Data Science I course.
+### Final Project for Data Science I course
 
 Team Member: Eleanor Zhang, Guojing Wu, Jie Yu, Shan Jiang, Jiayi Shen
 
